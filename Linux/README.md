@@ -33,3 +33,8 @@ su sangjin
 ```
 # whoami
 ```
+
+### 5. 사용자 리스트
+```
+#  cat -f1 -d: /etc/passwd
+```
